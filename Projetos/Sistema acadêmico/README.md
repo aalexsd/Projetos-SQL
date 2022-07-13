@@ -30,7 +30,7 @@ O objetivo do banco de dados será armazenar os dados dos alunos, possibilitando
 
 ### Schema
 
-![MODELO CONCEITUAL](C:\Users\alexduarte\Desktop\SQL\GitHub\Projetos\Sistema acadêmico\Imagens\MODELO CONCEITUAL.jpg)
+<img src = "img/MODELO CONCEITUAL.jpg">
 
 
 
